@@ -1,0 +1,5 @@
+api_key: fQnt27Rzvml1Ibh5u5ZDU2LZ3Z5QP8jo
+min_value: 500000
+sec: 60
+path_transactions: https://api.whale-alert.io/v1/transactions
+webhook: "https://discordapp.com/api/webhooks/809567816814428170/MAl1ToluFM1yBk0tww0_alVrx4G86cCAKSQ6t7OC8sWqJDf2qDX3Cjap70C0YBhHsKwo"
